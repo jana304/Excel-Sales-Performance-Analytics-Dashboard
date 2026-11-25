@@ -25,10 +25,6 @@ The project transforms transactional sales data into meaningful business insight
 - Data Visualization
 - Custom Number Formatting
 
-## Dashboard Preview
-
-![Sales Performance Dashboard](Sales_Dashboard.png)
-
 ## Key Performance Indicators
 
 | Metric | Value |
